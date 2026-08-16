@@ -180,7 +180,7 @@ function App() {
               <div style={{ color: 'var(--text-muted)', fontSize: '0.9rem' }}>Core System Builds</div>
             </div>
             <div className="counter-card glass-panel">
-              <div className="counter-number">8.1</div>
+              <div className="counter-number">8.16</div>
               <div style={{ color: 'var(--text-muted)', fontSize: '0.9rem' }}>BCA CGPA Baseline</div>
             </div>
           </div>
